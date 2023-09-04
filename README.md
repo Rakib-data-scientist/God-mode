@@ -1,6 +1,6 @@
 # God-mode
 
-Ofiicial github of God-mode : https://github.com/smol-ai/GodMode/
+Inspired by : https://github.com/smol-ai/GodMode/
 
 1.
 ![Choose-Your-Language-Model-Wisely-with-GodMode_page-0001](https://github.com/Rakib-data-scientist/God-mode/assets/137823730/bc9f590c-e25c-46ae-a102-8bb4218e8ebb)
